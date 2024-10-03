@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Patil</h1>
-<h3 align="center">I am a FullStack Web Developer and a Machine Learning Enthusiast.</h3>
+<h3 align="center">I am a Software Developer and a Machine Learning Enthusiast.</h3>
 
 
 <!--
@@ -59,4 +59,4 @@
     </a></p>
     
     
-  💬 Ask me about **Web Development, Machine Learning, Web Autmation & Scraping and Competitive Programming**
+  💬 Ask me about **Web Development, Machine Learning, Web Autmation & Scraping and Socket Programming**
